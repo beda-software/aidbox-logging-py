@@ -41,9 +41,9 @@ class AidboxLoggyHandler(logging.Handler):
         self.meta = meta
         super().__init__(*args, **kwargs)
 
-    def getPayload(
+    def getPayload(  # noqa: N802 the logging module is written using camelCase
         self: Self, record: logging.LogRecord
-    ) -> dict:  # noqa: N802 the logging module is written using camelCase
+    ) -> dict:
         message = self.format(record)
         meta = record.__dict__.get("meta", None)
         level = record.levelname
