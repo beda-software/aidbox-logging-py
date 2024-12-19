@@ -11,7 +11,7 @@ from typing import Self
 import requests
 
 __title__ = "aidbox-logging"
-__version__ = "0.1.0b0"
+__version__ = "0.1.0b1"
 __author__ = "beda.software"
 __license__ = "MIT"
 __copyright__ = "Copyright 2024 beda.software"
