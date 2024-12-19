@@ -1,5 +1,11 @@
+[![build status](https://github.com/beda-software/aidbox-logging-py/actions/workflows/main.yml/badge.svg)](https://github.com/beda-software/aidbox-logging-py/actions/workflows/main.yml)
+[![codecov](https://codecov.io/gh/beda-software/aidbox-logging-py/branch/master/graph/badge.svg)](https://codecov.io/gh/beda-software/aidbox-logging-py)
+[![pypi](https://img.shields.io/pypi/v/aidbox-logging.svg)](https://pypi.org/project/aidbox-logging)
+[![Checked with mypy](https://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/)
+[![Supported Python version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-311/)
+
 # aidbox-logging-py
-Aidbox $loggy python logging handler
+Aidbox $loggy python logging handler with queue
 
 ## Installation
 
