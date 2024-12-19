@@ -1,4 +1,4 @@
-## 0.1.0a1
+## 0.1.0b0
 
-Initial release
+- Initial release
 
